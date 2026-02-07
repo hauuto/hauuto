@@ -7,3 +7,10 @@
     <img src="https://github.com/user-attachments/assets/310b4ab7-6daa-4fff-88f4-ba96c473f631" width="300" style="border-radius: 15px; box-shadow: 0px 0px 20px #1D64F2;" />
 </div>
 
+
+
+#### My skills
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,opencv,mongodb,mysql,java,js,html,css,github,git)](https://skillicons.dev)
+
+#### Studying
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,flask,gcp)](https://skillicons.dev)
