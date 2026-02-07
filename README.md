@@ -8,7 +8,7 @@
     <img src="https://github.com/user-attachments/assets/310b4ab7-6daa-4fff-88f4-ba96c473f631" width="300" style="border-radius: 15px; box-shadow: 0px 0px 20px #1D64F2;" />
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hauuto/hauuto/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/hauuto/hauuto/output/github-contribution-grid-snake.svg" width="100%" />
 </div>
 
 
