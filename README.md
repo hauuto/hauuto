@@ -14,3 +14,10 @@
 
 #### Studying
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,flask,gcp)](https://skillicons.dev)
+
+
+## Connect with me
+
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=1D64F2&section=footer)
