@@ -20,4 +20,10 @@
 
 
 
+<p>
+  <a href="https://www.facebook.com/hauuto47/" target="_blank"><img src="https://github.com/user-attachments/assets/4f7c723a-fcdb-40f9-a901-adf509640b03" height="50" style="margin-right: 20px;" alt="Facebook" /></a><a href="https://www.linkedin.com/in/hauuto" target="_blank"><img src="https://github.com/user-attachments/assets/f28b1637-501f-4c14-aafc-f926c45d165f" height="50" alt="LinkedIn" /></a>
+</p>
+
+
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=1D64F2&section=footer)
