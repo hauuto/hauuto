@@ -4,8 +4,6 @@
 I'm a computer science student working on machine learning projects in
 programming education and computer vision.
 
-I co-lead **IUH AWS Cloud Club** and previously led **IUH DSC**.
-
 ## Selected projects
 
 - **Guidelet** · Exploring how language models can give Vietnamese programming
